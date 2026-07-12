@@ -1,3 +1,4 @@
+'use client';
 import React, { useState, useMemo } from 'react';
 import { Mail, Phone, MapPin, Linkedin, ChevronRight, Award, TrendingUp, Users, Zap, Target, Brain, Shield, Rocket, Heart, Calendar, Building2, Briefcase, GraduationCap, Sparkles, Filter, X, ArrowUpRight, CheckCircle2, Star, DollarSign, Trophy, Lightbulb, Network, BookOpen, Quote } from 'lucide-react';
 
