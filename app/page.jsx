@@ -336,7 +336,7 @@ export default function AnnaPortfolio() {
               <div className="absolute -inset-1 bg-gradient-to-br from-cyan-400 via-blue-500 to-purple-500 rounded-full opacity-75 blur-lg group-hover:opacity-100 transition-opacity"></div>
               <div className="relative w-32 h-32 md:w-40 md:h-40 rounded-full bg-gradient-to-br from-slate-700 to-slate-900 border-2 border-white/20 shadow-2xl flex items-center justify-center overflow-hidden">
                 {/* When you have a hosted image URL, replace this div with: <img src="YOUR_URL" alt="Anna Covington" className="w-full h-full object-cover" /> */}
-                <div className="text-4xl md:text-5xl font-bold bg-gradient-to-br from-cyan-300 to-purple-300 bg-clip-text text-transparent tracking-wide">AMC</div>
+                <img src="/AMC headshot.jpg" alt="Anna Covington" className="w-full h-full object-cover" />
               </div>
             </div>
 
